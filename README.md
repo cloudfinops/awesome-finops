@@ -7,16 +7,24 @@ FinOps is shorthand for “Cloud Financial Operations” or “Cloud Financial M
 
 - [FinOps Foundation](https://www.finops.org/) - Its goal is to advance the discipline of FinOps and cloud financial management through best practices, education and standards. It is a member of [The Linux Foundation](https://www.linuxfoundation.org/).
 
-### Articles
+## Articles
 
 - [Cloud FinOps](https://www.finops.org/resources/finops-book/) - Seminal book by founders of the FinOps Foundation.
-
-- [Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html) - AWS Cost Optimization Pillar
-
+- [Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html) - AWS Cost Optimization Pillar.
 - [Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/) - Make sense of the complex world of data transfer cost in AWS.
 
-### Tools
+## Tools
+
+### Open Source Tools
 
 - [kubecost](https://www.kubecost.com/) - Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.
+- [kube-resource-report](https://codeberg.org/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML.
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Cloud Custodian is a rules engine for managing public cloud accounts and resources. It allows users to define policies to enable a well managed cloud infrastructure, that's both secure and cost optimized. It consolidates many of the adhoc scripts organizations have into a lightweight and flexible tool, with unified metrics and reporting.
 
-- [kube-resource-report](https://codeberg.org/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
+### Commercial Tools
+
+- [Spot Cloud Analyzer](https://spot.io/products/cloud-analyzer/)
+- [Cloudability](https://www.cloudability.com/)
+- [CloudCheckr](https://www.cloudhealthtech.com/)
+- [CloudHealth](https://www.cloudhealthtech.com/)
+- [Densify](https://www.densify.com/)
