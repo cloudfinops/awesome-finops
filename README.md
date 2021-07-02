@@ -19,4 +19,4 @@ FinOps is shorthand for “Cloud Financial Operations” or “Cloud Financial M
 
 - [kubecost](https://www.kubecost.com/) - Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.
 
-
+- [kube-resource-report](https://codeberg.org/hjacobs/kube-resource-report) - Report Kubernetes cluster and pod resource requests vs usage and generate static HTML
