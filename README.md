@@ -25,10 +25,11 @@ FinOps is shorthand for “Cloud Financial Operations” or “Cloud Financial M
 
 ### Commercial Tools
 
-- [Spot Cloud Analyzer](https://spot.io/products/cloud-analyzer/)
 - [Cloudability](https://www.cloudability.com/)
 - [CloudCheckr](https://www.cloudhealthtech.com/)
 - [CloudHealth](https://www.cloudhealthtech.com/)
 - [Densify](https://www.densify.com/)
 - [Replex](https://www.replex.io/technology)
 - [CloudZero](https://www.cloudzero.com/)
+- [SoftwareOne](https://www.softwareone.com/zh-cn/cloud-financial-management)
+- [Spot Cloud Analyzer](https://spot.io/products/cloud-analyzer/)
